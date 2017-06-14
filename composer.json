@@ -1,5 +1,5 @@
 {
-	"name": "camspiers/silverstripe-loggerbridge",
+	"name": "heyday/silverstripe-loggerbridge",
 	"description": "Provides a bridge between PSR-3 loggers (like monolog) and SilverStripe",
 	"type": "silverstripe-module",
 	"license": "MIT",
